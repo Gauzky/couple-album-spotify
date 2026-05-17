@@ -1,0 +1,35 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663182118288/fSVEmnoecvuwCv6ftR9PDA",
+    "access_key_id": "ASIAZV3A2ECZF75TYD5G",
+    "secret_access_key": "/5nBnQIMSfdsxhBVZESYJUPpwzi1P/jchY+h+CKy",
+    "session_token": "IQoJb3JpZ2luX2VjENL//////////wEaCXVzLWVhc3QtMSJHMEUCIFoMThSc3o3IP8uBDusY+KMzY9nClwL7NYyqt+SPleiUAiEA33awCLn+UpQ8P1W2FiAg/nle30JLBFOmwyA5yCXHkVoq/gMIm///////////ARAEGgw2NjUzODYwOTg4NjYiDChfR+I8ddxldFqCASrSAw+wifU5GVXNZ7+FWPryrTMnsdt/ZFCNUVnmAbBCW8H4DHi2KDGilEMGmaVoCK1CknFi+kn/83dMKLiQIuaPPXgZu5WcDlHHFDmacP+HoJtz8K58P5h20B7NUN0o8VSTxei6dyZP6BLROz3tIg6duDYeohbjOzaaeNgMCpIwZjqe04sjDYav3VGAaDTdghw82GnKwOyUIMV7P+3Et2YZcjUSynH81hlWUdS9qyNLDxLIxva0ChCaAypgjz5OS9mBjhEtWOWNXYb7nanVURKdDlVC4maWz+stnriMMHQy/cpGby/0akoIS/N1Q0d/tUTzrccE9iu3tbf7bYIKv6770u5cZ4cT8g+CLs3Fe0Rg8UwzrnbCQzBZ+nWBw3BhiVOsF9iMAd+gcXOuYctjRfJ6Uvp2OjSu3O1ioMgFURtvDH3Yx/deYE3v5vXMxMYySSwtlib4z6GVbAhNj4CVJdFsLDOI9WJ5G1C4RYwvmFdeKsU8YRYNOF2wtygUFcHaKW8gBc/C/cLh7vVB7JdEHNedVNQrp60jQKyW7SkI8KNvkzBPZxC1mMUkLFrprxojw6BOasxVhRgQViUERwAmgUpVl/QC66X+BQD5Ad1LmxbsC8X3ADswpr+k0AY6nQFF2OLuc2KJxeWkd44YHwnlM1wghVPS2Mopp08jOLHJu2DM0DOSXxggKUcgckvmcAGaPWpKXq6CoO0A6jDWwtRGkyldff75dSXGP1mRmqqvCk11vDRoS17pp3DFEnebv8is5WnbS+9ix2feZA2QUgUDECMvs6asE4WSQeRkDAFlA6X6XAM8mkPemH9WJi6JSwZki7ilM9W1PE4+eLdt",
+    "expiration": "2026-05-17T13:53:42.000Z"
+  },
+  "name": "couple-album-spotify",
+  "path": "/home/ubuntu/couple-album-spotify",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "",
+    "BUILT_IN_FORGE_API_URL": "",
+    "JWT_SECRET": "",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Maryana Milena",
+    "OWNER_OPEN_ID": "EtKLYnP5MWvmStjdRKkZxR",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "3b8557fe-9167-4e90-b6a3-f2a731952b47",
+    "VITE_APP_ID": "fSVEmnoecvuwCv6ftR9PDA",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Nosso Álbum - Spotify Style",
+    "VITE_FRONTEND_FORGE_API_KEY": "fs9zM5jZce6xH7YQDGNrvB",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
